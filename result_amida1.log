@@ -1,0 +1,47 @@
+I, [2013-12-29T23:40:28.513476 #31140]  INFO -- : --- branch_data_file=branch_data-1.json
+I, [2013-12-29T23:40:28.513655 #31140]  INFO -- : * entered=A
+I, [2013-12-29T23:40:28.513687 #31140]  INFO -- :  deep=0,position=A->B
+I, [2013-12-29T23:40:28.513709 #31140]  INFO -- :  deep=1,position=B->C
+I, [2013-12-29T23:40:28.513729 #31140]  INFO -- :  deep=2,position=C->D
+I, [2013-12-29T23:40:28.513752 #31140]  INFO -- : * entered=B
+I, [2013-12-29T23:40:28.513772 #31140]  INFO -- :  deep=0,position=B->A
+I, [2013-12-29T23:40:28.513791 #31140]  INFO -- :  deep=1,position=A->A
+I, [2013-12-29T23:40:28.513809 #31140]  INFO -- :  deep=2,position=A->B
+I, [2013-12-29T23:40:28.513827 #31140]  INFO -- : * entered=C
+I, [2013-12-29T23:40:28.513846 #31140]  INFO -- :  deep=0,position=C->D
+I, [2013-12-29T23:40:28.513864 #31140]  INFO -- :  deep=1,position=D->D
+I, [2013-12-29T23:40:28.513882 #31140]  INFO -- :  deep=2,position=D->C
+I, [2013-12-29T23:40:28.513899 #31140]  INFO -- : * entered=D
+I, [2013-12-29T23:40:28.513919 #31140]  INFO -- :  deep=0,position=D->C
+I, [2013-12-29T23:40:28.513937 #31140]  INFO -- :  deep=1,position=C->B
+I, [2013-12-29T23:40:28.514003 #31140]  INFO -- :  deep=2,position=B->A
+I, [2013-12-29T23:40:28.514041 #31140]  INFO -- : --- branch_data_file=branch_data-2.json
+I, [2013-12-29T23:40:28.514091 #31140]  INFO -- : * entered=A
+I, [2013-12-29T23:40:28.514115 #31140]  INFO -- :  deep=0,position=A->B
+I, [2013-12-29T23:40:28.514134 #31140]  INFO -- :  deep=1,position=B->C
+I, [2013-12-29T23:40:28.514152 #31140]  INFO -- :  deep=2,position=C->D
+I, [2013-12-29T23:40:28.514169 #31140]  INFO -- : * entered=B
+I, [2013-12-29T23:40:28.514187 #31140]  INFO -- :  deep=0,position=B->A
+I, [2013-12-29T23:40:28.514206 #31140]  INFO -- :  deep=1,position=A->A
+I, [2013-12-29T23:40:28.514234 #31140]  INFO -- :  deep=2,position=A->A
+I, [2013-12-29T23:40:28.514264 #31140]  INFO -- : * entered=C
+I, [2013-12-29T23:40:28.514283 #31140]  INFO -- :  deep=0,position=C->D
+I, [2013-12-29T23:40:28.514302 #31140]  INFO -- :  deep=1,position=D->E
+I, [2013-12-29T23:40:28.514320 #31140]  INFO -- :  deep=2,position=E->E
+I, [2013-12-29T23:40:28.514337 #31140]  INFO -- : * entered=D
+I, [2013-12-29T23:40:28.514364 #31140]  INFO -- :  deep=0,position=D->C
+I, [2013-12-29T23:40:28.514383 #31140]  INFO -- :  deep=1,position=C->B
+I, [2013-12-29T23:40:28.514401 #31140]  INFO -- :  deep=2,position=B->B
+I, [2013-12-29T23:40:28.514418 #31140]  INFO -- : * entered=E
+I, [2013-12-29T23:40:28.514437 #31140]  INFO -- :  deep=0,position=E->E
+I, [2013-12-29T23:40:28.514455 #31140]  INFO -- :  deep=1,position=E->D
+I, [2013-12-29T23:40:28.514475 #31140]  INFO -- :  deep=2,position=D->C
+I, [2013-12-29T23:40:28.514502 #31140]  INFO -- : --- branch_data_file=branch_data-3.json
+I, [2013-12-29T23:40:28.514537 #31140]  INFO -- : * entered=A
+I, [2013-12-29T23:40:28.514570 #31140]  INFO -- :  deep=0,position=A->B
+I, [2013-12-29T23:40:28.514589 #31140]  INFO -- : * entered=B
+I, [2013-12-29T23:40:28.514608 #31140]  INFO -- :  deep=0,position=B->A
+I, [2013-12-29T23:40:28.514626 #31140]  INFO -- : * entered=C
+I, [2013-12-29T23:40:28.514645 #31140]  INFO -- :  deep=0,position=C->D
+I, [2013-12-29T23:40:28.514662 #31140]  INFO -- : * entered=D
+I, [2013-12-29T23:40:28.514681 #31140]  INFO -- :  deep=0,position=D->C
